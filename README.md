@@ -73,7 +73,8 @@ To ensure transparency and facilitate immediate verification by the scientific c
 
 ```
 ├── README.md                          # Project overview
-├── LICENSE                            # Main reproduction script (High Precision)
+├── COPYRIGHT.md                       
+├── LICENSE                            
 ├── Notebooks/
 │   └──  Validation_Alpha.ipynb        # Interactive Colab/Jupyter Notebook
 └── paper/
