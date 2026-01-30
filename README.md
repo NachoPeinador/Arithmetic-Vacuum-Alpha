@@ -17,12 +17,9 @@ The fine-structure constant, $\alpha$, has long been considered an arbitrary fre
 
 ### The Master Equation
 
-<div align="center">
-  <br>
-  <img src="https://render.githubusercontent.com/render/math?math=%5CHuge%20%5Calpha%5E%7B-1%7D%20%3D%20(4%5Cpi%5E3%20%2B%20%5Cpi%5E2%20%2B%20%5Cpi)%20-%20%5Cfrac%7BR_%7Bfund%7D%5E3%7D%7B4%7D%20-%20%5Cleft(1%20%2B%20%5Cfrac%7B1%7D%7B4%5Cpi%7D%5Cright)R_%7Bfund%7D%5E5" alt="Master Equation for Alpha Inverse">
-  <br>
-  <br>
-</div>
+$$
+\Large \alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{fund}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{fund}^5
+$$
 
 > Where **$R_{fund} = (6 \log_2 3)^{-1}$** represents the informational impedance of the vacuum.
 
