@@ -58,7 +58,7 @@ To ensure transparency and facilitate immediate verification by the scientific c
 
 | Research Domain | Interactive Notebook | Key Validations & Theoretical Outputs |
 | :--- | :--- | :--- |
-| **⚛️ Quantum Electrodynamics** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Alpha_Validation.ipynb) | • Exact derivation of $\alpha^{-1}$ ($10^{-14}$ precision)<br>• $R_{\text{fund}}$ entropic cost calculation<br>• Perturbative convergence analysis |
+| **⚛️ Quantum Electrodynamics** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Alpha.ipynb) | • Exact derivation of $\alpha^{-1}$ ($10^{-14}$ precision)<br>• $R_{\text{fund}}$ entropic cost calculation<br>• Perturbative convergence analysis |
 
 ### Verification Steps
 
