@@ -1,91 +1,90 @@
-# The Fine Structure of the Arithmetic Vacuum
+# La Estructura Fina del Vacío Aritmético
 
-[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/README_es.md)
+[![Read in English](https://img.shields.io/badge/Lang-Read%20in%20English-blue?style=flat&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Precision](https://img.shields.io/badge/precision-10%E2%81%BB%C2%B9%E2%81%B4-brightgreen)](https://physics.nist.gov/cuu/Constants/)
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Matched-success)](https://physics.nist.gov/cuu/Constants/)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/paper/Arithmetic-Vacuum-Alpha.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Papers/MST_paper.pdf)
 
-> **Exact derivation of the Fine-Structure Constant ($\alpha^{-1}$) via Modular Information Thermodynamics.**
+> **Derivación exacta de la Constante de Estructura Fina ($\alpha^{-1}$) mediante Termodinámica de la Información Modular.**
 
-This repository contains the source code, validation scripts, and manuscript for the paper **"The Fine Structure of the Arithmetic Vacuum"**. We present a closed-form solution for $\alpha^{-1}$ based on the thermodynamic impedance of a $\mathbb{Z}/6\mathbb{Z}$ modular substrate, matching experimental data with absolute precision.
+Este repositorio contiene el código fuente, los scripts de validación y el manuscrito del artículo **"La Estructura Fina del Vacío Aritmético"** (The Fine Structure of the Arithmetic Vacuum). Presentamos una solución de forma cerrada para $\alpha^{-1}$ basada en la impedancia termodinámica de un sustrato modular $\mathbb{Z}/6\mathbb{Z}$, coincidiendo con los datos experimentales con precisión absoluta.
 
 ---
 
-## 📄 Abstract
+## 📄 Resumen (Abstract)
 
-The fine-structure constant, $\alpha$, has long been considered an arbitrary free parameter in the Standard Model. In this work, we propose that $\alpha$ emerges from the interaction between an ideal geometric topology and the informational impedance of a discrete modular substrate ($\mathbb{Z}/6\mathbb{Z}$).
+La constante de estructura fina, $\alpha$, ha sido considerada durante mucho tiempo un parámetro libre arbitrario en el Modelo Estándar. En este trabajo, proponemos que $\alpha$ emerge de la interacción entre una topología geométrica ideal y la impedancia informacional de un sustrato modular discreto ($\mathbb{Z}/6\mathbb{Z}$).
 
-### The Master Equation
+### La Ecuación Maestra
 
 $$
 \Large \alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{fund}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{fund}^5
 $$
 
-> Where **$R_{fund} = (6 \log_2 3)^{-1}$** represents the informational impedance of the vacuum.
+> Donde **$R_{fund} = (6 \log_2 3)^{-1}$** representa la impedancia informacional del vacío.
 
-### Theoretical Breakdown
+### Desglose Teórico
 
-The formula is structured as a perturbative expansion where each term corresponds to a specific physical layer of the vacuum:
+La fórmula se estructura como una expansión perturbativa donde cada término corresponde a una capa física específica del vacío:
 
-* **$\mathbf{4\pi^3 + \pi^2 + \pi}$ (Geometric Order 0):** Represents the "bare" topology of a 3+1 dimensional space-time. It sums the phase-space volumes of the bulk (3D), the horizon surface (2D), and the $U(1)$ fiber (1D).
-* **$-\frac{1}{4} R_{fund}^3$ (Thermal Correction):** A first-order correction accounts for the entropic cost of information processing. The $1/4$ factor is consistent with the Bekenstein-Hawking area-entropy law ($S = A/4$).
-* **$-(1 + \frac{1}{4\pi})R_{fund}^5$ (Screening Order):** Represents vacuum polarization and charge screening. It combines a scalar field interaction with a 3D Gauss-law spherical scattering term.
+* **$\mathbf{4\pi^3 + \pi^2 + \pi}$ (Orden Geométrico 0):** Representa la topología "desnuda" de un espacio-tiempo 3+1 dimensional. Suma los volúmenes del espacio de fase del *bulk* (3D), la superficie del horizonte (2D) y la fibra $U(1)$ (1D).
+* [cite_start]**$-\frac{1}{4} R_{fund}^3$ (Corrección Térmica):** Una corrección de primer orden que da cuenta del coste entrópico del procesamiento de información[cite: 1]. El factor $1/4$ es consistente con la ley de área-entropía de Bekenstein-Hawking ($S = A/4$).
+* [cite_start]**$-(1 + \frac{1}{4\pi})R_{fund}^5$ (Orden de Apantallamiento):** Representa la polarización del vacío y el apantallamiento de carga[cite: 1]. Combina una interacción de campo escalar con un término de dispersión esférica de la ley de Gauss en 3D.
 
-This formulation reproduces the **CODATA 2022** recommended value with an absolute precision of **$1.5 \times 10^{-14}$**, effectively making the theoretical prediction indistinguishable from current experimental uncertainty.
+Esta formulación reproduce el valor recomendado por **CODATA 2022** con una precisión absoluta de **$1.5 \times 10^{-14}$**, haciendo que la predicción teórica sea efectivamente indistinguible de la incertidumbre experimental actual.
 
-## 🏆 Key Results
+## 🏆 Resultados Clave
 
-Our theoretical derivation is compared directly against the latest metrological standards.
+Nuestra derivación teórica se compara directamente con los últimos estándares metrológicos.
 
-| Component | Physical Meaning | Numerical Value |
+| Componente | Significado Físico | Valor Numérico |
 | :--- | :--- | :--- |
-| **Order 0** | Geometric Topology ($4\pi^3 + \dots$) | `137.036303775...` |
-| **Order 1** | Thermal Fluctuation ($-R^3/4$) | `-0.000290689...` |
-| **Order 2** | Charge Screening $-R^5(1+1/4\pi)$ | `-0.000013880...` |
-| **Total** | **Theoretical Prediction** | **`137.035999206...`** |
-| *Reference* | *CODATA 2022 (Experiment)* | *`137.035999206...`* |
+| **Orden 0** | Topología Geométrica ($4\pi^3 + \dots$) | `137.036303775...` |
+| **Orden 1** | Fluctuación Térmica ($-R^3/4$) | `-0.000290689...` |
+| **Orden 2** | Apantallamiento de Carga $-R^5(1+1/4\pi)$ | `-0.000013880...` |
+| **Total** | **Predicción Teórica** | **`137.035999206...`** |
+| *Referencia* | *CODATA 2022 (Experimental)* | *`137.035999206...`* |
 
-> **Absolute Discrepancy:** ~ $1.5 \times 10^{-14}$ (0.0000 ppb)  
-> **Statistical Significance:** $P < 10^{-10}$
+> **Discrepancia Absoluta:** ~ $1.5 \times 10^{-14}$ (0.0000 ppb)  
+> **Significancia Estadística:** $P < 10^{-10}$
 
-## 🛠️ Scientific Reproducibility
+## 🛠️ Reproducibilidad Científica
 
-To ensure transparency and facilitate immediate verification by the scientific community, all computational analysis is provided via cloud-hosted environments. These notebooks are pre-configured with the necessary arbitrary-precision libraries (`mpmath`).
+Para garantizar la transparencia y facilitar la verificación inmediata por parte de la comunidad científica, todo el análisis computacional se proporciona a través de entornos alojados en la nube. Estos *notebooks* están preconfigurados con las librerías de precisión arbitraria necesarias (`mpmath`).
 
-| Research Domain | Interactive Notebook | Key Validations & Theoretical Outputs |
+| Dominio de Investigación | Notebook Interactivo | Validaciones Clave y Salidas Teóricas |
 | :--- | :--- | :--- |
-| **⚛️ Quantum Electrodynamics** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Alpha.ipynb) | • Exact derivation of $\alpha^{-1}$ ($10^{-14}$ precision)<br>• $R_{\text{fund}}$ entropic cost calculation<br>• Perturbative convergence analysis |
+| **⚛️ Electrodinámica Cuántica** | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Alpha_Validation.ipynb) | • Derivación exacta de $\alpha^{-1}$ (precisión $10^{-14}$)<br>• Cálculo del coste entrópico $R_{\text{fund}}$<br>• Análisis de convergencia perturbativa |
 
-### Verification Steps
+### Pasos de Verificación
 
-1. **Click** the "Open in Colab" badge above for the corresponding domain.
-2. **Execute:** Go to `Runtime` > `Run all` (or press `Ctrl + F9`).
-3. **Audit:** The script will automatically install dependencies and perform the 100-digit precision audit.
-4. **Compare:** Evaluate the **Theoretical Final Value** against the CODATA 2022 reference provided in the output.
+1. **Haga clic** en la insignia "Abrir en Colab" de arriba.
+2. **Ejecute:** Vaya a `Entorno de ejecución` > `Ejecutar todas` (o presione `Ctrl + F9`).
+3. **Audite:** El script instalará automáticamente las dependencias y realizará la auditoría de precisión de 100 dígitos.
+4. **Compare:** Evalúe el **Valor Final Teórico** contra la referencia CODATA 2022 proporcionada en la salida.
 
-> **Note:** A minimum of 100 decimal places (`mp.dps = 100`) is used to ensure that the $10^{-14}$ precision is not affected by standard floating-point rounding errors.
+> **Nota:** Se utiliza un mínimo de 100 decimales (`mp.dps = 100`) para asegurar que la precisión de $10^{-14}$ no se vea afectada por errores de redondeo de punto flotante estándar.
 
-## 📂 Repository Structure
+## 📂 Estructura del Repositorio
 
 
 ```
 
-├── README.md                          # Project overview (English)
-├── README_es.md                       # Project overview (Spanish)
-├── https://www.google.com/search?q=LICENSE                            # MIT License for code
+├── README.md                          # Visión general del proyecto
+├── https://www.google.com/search?q=LICENSE                            # Licencia MIT del código
 ├── Notebooks/
-│   └──  Validation_Alpha.ipynb        # Interactive Colab/Jupyter Notebook
+│   └──  Validation_Alpha.ipynb        # Notebook Interactivo (Colab/Jupyter)
 └── paper/
-├── Arithmetic-Vacuum-Alpha.pdf    # Full paper (Preprint)
-└── Arithmetic-Vacuum-Alpha.tex    # LaTeX source code
+├── Arithmetic-Vacuum-Alpha.pdf    # Artículo completo (Preprint)
+└── Arithmetic-Vacuum-Alpha.tex    # Código fuente LaTeX
 
 ```
 
-## 📚 Citation
+## 📚 Cita
 
-If you use this work or code in your research, please cite the following:
+Si utiliza este trabajo o código en su investigación, por favor cite lo siguiente:
 
 ```bibtex
 @article{peinador2026fine,
@@ -98,21 +97,21 @@ If you use this work or code in your research, please cite the following:
 
 ```
 
-## 🛡️ License
+## 🛡️ Licencia
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+Este proyecto está licenciado bajo la **Licencia MIT** - vea el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para más detalles.
 
-The scientific manuscript is available under **CC BY 4.0**.
+El manuscrito científico está disponible bajo la licencia **CC BY 4.0**.
 
-## ✉️ Contact
+## ✉️ Contacto
 
-**José Ignacio Peinador Sala** *Independent Researcher, Institute of Modular Algebraic Structures* Valladolid, Spain
+**José Ignacio Peinador Sala** *Investigador Independiente, Instituto de Estructuras Algebraicas Modulares* Valladolid, España
 
 📧 [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)
 
 ---
 
-*Dedicated to the open science community and the pursuit of fundamental understanding outside traditional academic boundaries.*
+*Dedicado a la comunidad de ciencia abierta y a la búsqueda del entendimiento fundamental fuera de los límites académicos tradicionales.*
 
 ```
 
