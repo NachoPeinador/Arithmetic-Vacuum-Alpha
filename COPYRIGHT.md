@@ -30,7 +30,7 @@ The academic paper (`Papers/Arithmetic-Vacuum-Alpha.pdf`) and the README documen
 
 ## 3. Citation Requirement
 
-If you use the GCAT theory, the provided code, or the derived datasets in your research or public projects, **attribution is required**. Please cite the work as follows:
+If you use the Arithmetic Vacuum Alpha theory, the provided code, or the derived datasets in your research or public projects, **attribution is required**. Please cite the work as follows:
 
 **BibTeX:**
 ```bibtex
