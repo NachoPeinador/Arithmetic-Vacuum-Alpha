@@ -99,7 +99,7 @@ If you use this work or code in your research, please cite the following:
 
 ## 🛡️ License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/LICENSE.txt) file for details.
 
 The scientific manuscript is available under **CC BY 4.0**.
 
