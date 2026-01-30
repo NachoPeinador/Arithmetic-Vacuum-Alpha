@@ -71,14 +71,14 @@ Para garantizar la transparencia y facilitar la verificación inmediata por part
 
 
 ```
-
-├── README.md                          # Visión general del proyecto
-├── https://www.google.com/search?q=LICENSE                            # Licencia MIT del código
+── README.md                           # Visión del proyecto
+├── COPYRIGHT.md                       
+├── LICENSE                            
 ├── Notebooks/
-│   └──  Validation_Alpha.ipynb        # Notebook Interactivo (Colab/Jupyter)
+│   └──  Validacion_Alpha.ipynb        # Colab interactivo/Jupyter Notebook
 └── paper/
-├── Arithmetic-Vacuum-Alpha.pdf    # Artículo completo (Preprint)
-└── Arithmetic-Vacuum-Alpha.tex    # Código fuente LaTeX
+    ├── Aritmética-Vacio-Alpha.pdf    # Artículo científico completo (Preprint)
+    └── Aritmética-Vacio-Alpha.tex    # Código fuente en LaTeX
 
 ```
 
