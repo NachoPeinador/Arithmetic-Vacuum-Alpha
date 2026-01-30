@@ -1,9 +1,11 @@
 # The Fine Structure of the Arithmetic Vacuum
 
+[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/README_es.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Precision](https://img.shields.io/badge/precision-10%E2%81%BB%C2%B9%E2%81%B4-brightgreen)](https://physics.nist.gov/cuu/Constants/)
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Matched-success)](https://physics.nist.gov/cuu/Constants/)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Papers/MST_paper.pdf)
 
 > **Exact derivation of the Fine-Structure Constant ($\alpha^{-1}$) via Modular Information Thermodynamics.**
 
