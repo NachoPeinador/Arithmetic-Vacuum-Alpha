@@ -27,7 +27,7 @@ Our theoretical derivation is compared directly against the latest metrological 
 | :--- | :--- | :--- |
 | **Order 0** | Geometric Topology ($4\pi^3 + \dots$) | `137.036303775...` |
 | **Order 1** | Thermal Fluctuation ($-R^3/4$) | `-0.000290689...` |
-| **Order 2** | Charge Screening ($-R^5(1+1/4\pi)$) | `-0.000013880...` |
+| **Order 2** | Charge Screening $-R^5(1+1/4\pi)$ | `-0.000013880...` |
 | **Total** | **Theoretical Prediction** | **`137.035999206...`** |
 | *Reference* | *CODATA 2022 (Experiment)* | *`137.035999206...`* |
 
