@@ -70,15 +70,13 @@ To ensure transparency and facilitate immediate verification by the scientific c
 ## 📂 Repository Structure
 
 ```
-├── README.md             # Project overview
-├── validation.py         # Main reproduction script (High Precision)
-├── Validation_Alpha.ipynb # Interactive Colab/Jupyter Notebook
-├── paper/
-│   ├── manuscript.pdf    # Full paper (Preprint)
-│   └── source.tex        # LaTeX source code
-└── data/
-    └── codata_2022.json  # Reference values from NIST
-
+├── README.md                          # Project overview
+├── LICENSE                            # Main reproduction script (High Precision)
+├── Notebooks/
+│   └──  Validation_Alpha.ipynb        # Interactive Colab/Jupyter Notebook
+└── paper/
+    ├── Arithmetic-Vacuum-Alpha.pdf    # Full paper (Preprint)
+    └── Arithmetic-Vacuum-Alpha.tex    # LaTeX source code
 ```
 
 ## 📚 Citation
@@ -89,7 +87,7 @@ If you use this work or code in your research, please cite the following:
 @article{peinador2026fine,
   title={The Fine Structure of the Arithmetic Vacuum: Exact Derivation of $\alpha^{-1}$ via Modular Renormalization},
   author={Peinador Sala, José Ignacio},
-  journal={Preprint},
+  journal={Zenodo},
   year={2026},
   url={[https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)}
 }
