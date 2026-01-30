@@ -15,9 +15,28 @@ This repository contains the source code, validation scripts, and manuscript for
 
 The fine-structure constant, $\alpha$, has long been considered an arbitrary free parameter in the Standard Model. In this work, we propose that $\alpha$ emerges from the interaction between an ideal geometric topology and the informational impedance of a discrete modular substrate ($\mathbb{Z}/6\mathbb{Z}$).
 
-We derive a master equation that includes thermal and screening corrections:
-$$\alpha^{-1} = (4\pi^3 + \pi^2 + \pi) - \frac{R_{fund}^3}{4} - \left(1 + \frac{1}{4\pi}\right)R_{fund}^5$$
-where $R_{fund} = (6 \log_2 3)^{-1}$. This formulation reproduces the **CODATA 2022** recommended value with a precision of **1.5 × 10⁻¹⁴**, indistinguishable from current experimental uncertainty.
+### The Master Equation
+
+<div align="center">
+  <br>
+  <img src="https://render.githubusercontent.com/render/math?math=%5CHuge%20%5Calpha%5E%7B-1%7D%20%3D%20(4%5Cpi%5E3%20%2B%20%5Cpi%5E2%20%2B%20%5Cpi)%20-%20%5Cfrac%7BR_%7Bfund%7D%5E3%7D%7B4%7D%20-%20%5Cleft(1%20%2B%20%5Cfrac%7B1%7D%7B4%5Cpi%7D%5Cright)R_%7Bfund%7D%5E5" alt="Master Equation for Alpha Inverse">
+  <br>
+  <br>
+</div>
+
+> Where **$R_{fund} = (6 \log_2 3)^{-1}$** represents the informational impedance of the vacuum.
+
+
+
+### Theoretical Breakdown
+
+The formula is structured as a perturbative expansion where each term corresponds to a specific physical layer of the vacuum:
+
+* **$\mathbf{4\pi^3 + \pi^2 + \pi}$ (Geometric Order 0):** Represents the "bare" topology of a 3+1 dimensional space-time. It sums the phase-space volumes of the bulk (3D), the horizon surface (2D), and the $U(1)$ fiber (1D).
+* **$-\frac{1}{4} R_{fund}^3$ (Thermal Correction):** A first-order correction account for the entropic cost of information processing. The $1/4$ factor is consistent with the Bekenstein-Hawking area-entropy law ($S = A/4$).
+* **$-(1 + \frac{1}{4\pi})R_{fund}^5$ (Screening Order):** Represents vacuum polarization and charge screening. It combines a scalar field interaction with a 3D Gauss-law spherical scattering term.
+
+This formulation reproduces the **CODATA 2022** recommended value with an absolute precision of **$1.5 \times 10^{-14}$**, effectively making the theoretical prediction indistinguishable from current experimental uncertainty.
 
 ## 🏆 Key Results
 
