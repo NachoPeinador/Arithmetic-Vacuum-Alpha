@@ -34,36 +34,33 @@ Our theoretical derivation is compared directly against the latest metrological 
 > **Absolute Discrepancy:** ~ $1.5 \times 10^{-14}$ (0.0000 ppb)  
 > **Statistical Significance:** $P < 10^{-10}$
 
-## 🚀 Getting Started
+## 🛠️ Scientific Reproducibility
 
-To replicate the results presented in the paper, you need a Python environment capable of arbitrary-precision arithmetic.
+To ensure transparency and facilitate immediate verification by the scientific community, all computational analysis is provided via cloud-hosted environments. These notebooks are pre-configured with the necessary arbitrary-precision libraries (`mpmath`).
 
-### Prerequisites
+| Research Domain | Interactive Notebook | Key Validations & Theoretical Outputs |
+| :--- | :--- | :--- |
+| **⚛️ Quantum Electrodynamics** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Alpha_Validation.ipynb) | • Exact derivation of $\alpha^{-1}$ ($10^{-14}$ precision)<br>• $R_{\text{fund}}$ entropic cost calculation<br>• Perturbative convergence analysis |
 
-The project relies on `mpmath` for 50-digit precision calculations.
+Verification Steps
+Click the Open in Colab badge above.
 
-```bash
-pip install mpmath pandas matplotlib
+Go to Runtime > Run all (or press Ctrl + F9).
 
-```
+The script will automatically install dependencies and perform the 100-digit precision audit.
 
-### Reproducibility
+Compare the Theoretical Final Value against the CODATA 2022 reference provided in the output.
 
-You can run the validation script directly:
 
-```bash
-python validation.py
 
-```
+### Verification Steps
 
-This script will:
+1. **Click** the "Open in Colab" badge above for the corresponding domain.
+2. **Execute:** Go to `Runtime` > `Run all` (or press `Ctrl + F9`).
+3. **Audit:** The script will automatically install dependencies and perform the 100-digit precision audit.
+4. **Compare:** Evaluate the **Theoretical Final Value** against the CODATA 2022 reference provided in the output.
 
-1. Define the fundamental impedance  to 100 decimal digits.
-2. Compute the perturbative expansion terms.
-3. Output the comparison table against CODATA 2022 values.
-4. Generate the convergence plot.
-
-Alternatively, you can open the **Jupyter Notebook** provided (`Validation_Alpha.ipynb`) for an interactive walkthrough of the derivation.
+> **Note:** A minimum of 100 decimal places (`mp.dps = 100`) is used to ensure that the $10^{-14}$ precision is not affected by standard floating-point rounding errors.
 
 ## 📂 Repository Structure
 
