@@ -113,5 +113,3 @@ The scientific manuscript is available under **CC BY 4.0**.
 *Dedicated to the open science community and the pursuit of fundamental understanding outside traditional academic boundaries.*
 
 ```
-
-```
