@@ -2,7 +2,7 @@
 
 **Project:** GCAT - Quantum Gravity as Topological Aliasing
 **Author:** José Ignacio Peinador Sala
-**Repository:** [https://github.com/NachoPeinador/Modular-Substrate-Theory](https://github.com/NachoPeinador/Modular-Substrate-Theory)
+**Repository:** [https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)
 
 ---
 
@@ -34,12 +34,14 @@ If you use the GCAT theory, the provided code, or the derived datasets in your r
 
 **BibTeX:**
 ```bibtex
-@article{PeinadorSala2026MST,
-  title = {Modular Substrate Theory: Geometric Unification of Cosmology and Hadronic Spectroscopy from First Principles},
-  author = {Peinador Sala, Jos{\'e} Ignacio},
-  year = {2026},
+@article{peinador2026fine,
+  title={The Fine Structure of the Arithmetic Vacuum: Exact Derivation of $\alpha^{-1}$ via Modular Renormalization},
+  author={Peinador Sala, José Ignacio},
+  journal={Zenodo},
+  year={2026},
+  url={[https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)}
   journal = {GitHub Repository},
-  url = {https://github.com/NachoPeinador/Modular-Substrate-Theory},
+  url = {https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha},
   doi = {10.5281/zenodo.XXXXXXX},
   note = {Version 1.0.0}
 }
