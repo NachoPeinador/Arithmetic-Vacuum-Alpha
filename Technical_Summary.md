@@ -2,7 +2,7 @@
 
 ## 1. Introduction: The Alpha Mystery and the Arithmetic Hypothesis
 
-The fine structure constant (\(\alpha\)) is a fundamental dimensionless parameter of the Standard Model that characterizes the strength of the electromagnetic interaction between elementary charged particles. Its precise value is critical to the stability of matter and the structure of the universe. The currently accepted CODATA 2022 value for its inverse is:
+The fine structure constant (\alpha\) is a fundamental dimensionless parameter of the Standard Model that characterizes the strength of the electromagnetic interaction between elementary charged particles. Its precise value is critical to the stability of matter and the structure of the universe. The currently accepted CODATA 2022 value for its inverse is:
 \[
 \alpha^{-1} = 137.035\,999\,206 (11)
 \]
