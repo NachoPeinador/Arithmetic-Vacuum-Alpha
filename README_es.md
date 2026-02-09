@@ -50,6 +50,20 @@ Nuestra derivación teórica se compara directamente con los últimos estándare
 > **Discrepancia Absoluta:** ~ $1.5 \times 10^{-14}$ (0.0000 ppb)  
 > **Significancia Estadística:** $P < 10^{-10}$
 
+## 🌌 El Marco General: Teoría del Sustrato Modular
+
+La derivación de $\alpha^{-1}$ presentada aquí no es una coincidencia numérica aislada. Es una aplicación específica de la **Teoría del Sustrato Modular (TSM)**, un marco integral que utiliza la misma geometría $\mathbb{Z}/6\mathbb{Z}$ para unificar:
+
+* **Cosmología:** Resolviendo las tensiones de Hubble ($H_0$) y $S_8$.
+* **Física de Partículas:** Clasificando hadrones exóticos ($d^*, T_{cc}^+$) mediante compresión geométrica.
+* **Matemáticas:** Vinculando la Termodinámica Cuántica con la Hipótesis de Riemann.
+
+Para explorar la fundamentación teórica completa y otras derivaciones:
+
+[![Repo TSM](https://img.shields.io/badge/Repositorio-Teoría__del__Sustrato__Modular-blueviolet?style=for-the-badge&logo=github)](https://github.com/NachoPeinador/Modular-Substrate-Theory/tree/main)
+
+Descubre cómo la misma impedancia $R_{\text{fund}}$ gobierna fenómenos a lo largo de 60 órdenes de magnitud.
+
 ## 🛠️ Reproducibilidad Científica
 
 Para garantizar la transparencia y facilitar la verificación inmediata por parte de la comunidad científica, todo el análisis computacional se proporciona a través de entornos alojados en la nube. Estos *notebooks* están preconfigurados con las librerías de precisión arbitraria necesarias (`mpmath`).
