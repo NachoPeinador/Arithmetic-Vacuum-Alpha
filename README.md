@@ -66,7 +66,7 @@ To explore the full theoretical foundation and other derivations:
 
 [![Repo MST](https://img.shields.io/badge/Repository-Modular__Substrate__Theory-blueviolet?style=for-the-badge&logo=github)](https://github.com/NachoPeinador/Modular-Substrate-Theory/tree/main)
 
-> *Discover how the same impedance $R_{\text{fund}}$ governs phenomena across 60 orders of magnitude.*
+Discover how the same impedance $R_{\text{fund}}$ governs phenomena across 60 orders of magnitude.
 
 ## 🛠️ Scientific Reproducibility
 
