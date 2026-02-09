@@ -52,6 +52,22 @@ Our theoretical derivation is compared directly against the latest metrological 
 > **Absolute Discrepancy:** ~ $1.5 \times 10^{-14}$ (0.0000 ppb)  
 > **Statistical Significance:** $P < 10^{-10}$
 
+
+
+## 🌌 The Broader Framework: Modular Substrate Theory
+
+The derivation of $\alpha^{-1}$ presented here is not an isolated numerical coincidence. It is a specific application of the **Modular Substrate Theory (MST)**, a comprehensive framework that utilizes the same $\mathbb{Z}/6\mathbb{Z}$ geometry to unify:
+
+* **Cosmology:** Resolving the Hubble ($H_0$) and $S_8$ tensions.
+* **Particle Physics:** Classifying exotic hadrons ($d^*, T_{cc}^+$) via geometric compression.
+* **Mathematics:** Linking Quantum Thermodynamics to the Riemann Hypothesis.
+
+To explore the full theoretical foundation and other derivations:
+
+[![Repo MST](https://img.shields.io/badge/Repository-Modular__Substrate__Theory-blueviolet?style=for-the-badge&logo=github)](https://github.com/NachoPeinador/Modular-Substrate-Theory/tree/main)
+
+> *Discover how the same impedance $R_{\text{fund}}$ governs phenomena across 60 orders of magnitude.*
+
 ## 🛠️ Scientific Reproducibility
 
 To ensure transparency and facilitate immediate verification by the scientific community, all computational analysis is provided via cloud-hosted environments. These notebooks are pre-configured with the necessary arbitrary-precision libraries (`mpmath`).
