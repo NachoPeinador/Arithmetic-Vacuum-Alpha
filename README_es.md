@@ -5,7 +5,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Precision](https://img.shields.io/badge/precision-10%E2%81%BB%C2%B9%E2%81%B4-brightgreen)](https://physics.nist.gov/cuu/Constants/)
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Matched-success)](https://physics.nist.gov/cuu/Constants/)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Aritmética-Vacio-Alpha.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Aritmética-Vacio-Alpha.pdf)[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validacion_Alpha.ipynb)
 
 > **Derivación exacta de la Constante de Estructura Fina ($\alpha^{-1}$) mediante Termodinámica de la Información Modular.**
 
