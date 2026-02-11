@@ -40,7 +40,7 @@ If you use the Arithmetic Vacuum Alpha theory, the provided code, or the derived
   year         = {2026},
   publisher    = {Zenodo},
   version      = {1.0.0},
-  doi          = {10.5281/zenodo.XXXXXXX},
+  doi          = {10.5281/zenodo.18611630},
   url          = {[https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)},
   note         = {Preprint}
 }
