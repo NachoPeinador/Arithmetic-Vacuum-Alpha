@@ -1,7 +1,9 @@
 # Copyright and Licensing Information
 
 **Project:** The Fine Structure of the Arithmetic Vacuum
+
 **Author:** José Ignacio Peinador Sala
+
 **Repository:** [https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)
 
 ---
