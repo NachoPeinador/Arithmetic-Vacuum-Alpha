@@ -65,7 +65,7 @@ Our theoretical derivation is compared directly against the latest metrological 
 | **Total** | **MST Prediction** | **`137.035999206...`** |
 | *Reference* | *CODATA 2022 (Experiment)* | *`137.035999206...`* |
 
-**Stability Audit:** Applying a micro-perturbation ($\epsilon = 10^{-6}$) to the topological parameters ($1/4$ holographic partition or $\mathbb{Z}_6$ dimension) degrades predictive accuracy by ** over four orders of magnitude $>10^4$x **. The model resides in a steep phenomenological potential well, mathematically rejecting the flat landscapes characteristic of ad-hoc curve fitting.
+**Stability Audit:** Applying a micro-perturbation ($\epsilon = 10^{-6}$) to the topological parameters ($1/4$ holographic partition or $\mathbb{Z}_6$ dimension) degrades predictive accuracy by **over four orders of magnitude** $>10^4$x. The model resides in a steep phenomenological potential well, mathematically rejecting the flat landscapes characteristic of ad-hoc curve fitting.
 
 ## 🛠️ Scientific Reproducibility
 
