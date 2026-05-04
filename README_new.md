@@ -5,14 +5,13 @@
   <img src="Algebraic_Naturalness.png" alt="Algebraic Naturalness Plot" width="850">
 </p>
 
-[![Read in Spanish](https://img.shields.io/badge/Lang-Leer%20en%20Español-red?style=flat&logoColor=white&color=B31B1B)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/README_es.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Precision](https://img.shields.io/badge/precision-10%E2%81%BB%C2%B9%E2%81%B4-brightgreen)](https://physics.nist.gov/cuu/Constants/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Converged-success)](https://physics.nist.gov/cuu/Constants/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18609093.svg)](https://doi.org/10.5281/zenodo.18611630)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Alpha_v6.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Phenom_Approx_Alpha.pdf)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Master_Validation_Notebook.ipynb)
 
 This repository contains the source code, validation scripts, and manuscript for the paper **"A Phenomenological Approximation of the Inverse Fine-Structure Constant"**. We present a closed-form solution for $\alpha^{-1}$ based on the thermodynamic impedance of a $\mathbb{Z}/6\mathbb{Z}$ modular substrate, matching experimental data with a residual absolute deviation of $1.5 \times 10^{-14}$. 
@@ -125,22 +124,20 @@ The scientific manuscript is available under **CC BY 4.0**.
 
 ## 🔭 Philosophical Context
 
-> *“No sé cómo puedo parecerle al mundo, pero para mí mismo no he sido más que un niño jugando a la orilla del mar... mientras el gran océano de la verdad se extendía ante mí, todo él por descubrir.”* — **Isaac Newton**
+> *"I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore... whilst the great ocean of truth lay all undiscovered before me."* — **Isaac Newton**
 
-La determinación de la constante de estructura fina ($\alpha$) es uno de los mayores desafíos en la historia de la física teórica. Durante casi un siglo, mentes brillantes han buscado el origen de este número, construyendo un gigantesco puzle de conocimiento donde cada hallazgo, cada teoría y cada experimento han servido para acotar el misterio. 
+The determination of the fine-structure constant ($\alpha$) is one of the greatest challenges in the history of theoretical physics. For almost a century, brilliant minds have sought the origin of this number, building a gigantic puzzle of knowledge where every discovery, every theory, and every experiment has served to narrow down the mystery. 
 
-Este trabajo nace desde la humildad de quien se sabe parte de ese esfuerzo compartido. No pretendemos haber resuelto el enigma en su totalidad, sino simplemente haber aportado una pieza más: una que, al observar el vacío a través de la lente de la topología modular $\mathbb{Z}/6\mathbb{Z}$ y la impedancia de información, parece encajar con una parsimonia y precisión asombrosas. Si nuestra ecuación maestra logra aproximarse tanto al valor medido por CODATA, es gracias al camino pavimentado por todos aquellos que, día tras día, se enfrentan a lo desconocido en laboratorios y despachos de todo el mundo.
+This work is born from the humility of knowing oneself to be part of that shared effort. We do not claim to have solved the enigma in its entirety, but simply to have contributed one more piece: one that, by observing the vacuum through the lens of $\mathbb{Z}/6\mathbb{Z}$ modular topology and informational impedance, seems to fit with astonishing parsimony and precision. If our master equation manages to approximate the value measured by CODATA so closely, it is thanks to the path paved by all those who, day after day, face the unknown in laboratories and offices around the world.
 
-Reconocemos y honramos la labor de la comunidad científica global. La ciencia no es una carrera de velocidad, sino una catedral construida piedra a piedra. Este marco analítico, forjado desde la investigación independiente, es solo nuestro intento de colocar una de esas piedras con rigor y honestidad, esperando que ayude a otros a seguir explorando el vasto océano de la verdad que aún nos rodea.
+We recognize and honor the work of the global scientific community. Science is not a sprint, but a cathedral built stone by stone. This analytical framework, forged from independent research, is merely our attempt to place one of those stones with rigor and honesty, hoping it will help others to continue exploring the vast ocean of truth that still surrounds us.
 
-> *“La arquitectura del universo es una, y el esfuerzo humano por comprenderla es un camino que todos recorremos juntos, paso a paso.”* — **Adaptación de pensamiento científico humanista**
+> *"The architecture of the universe is one, and the human effort to understand it is a path we all walk together, step by step."*
 
 ---
 
 <div align="center">
 
-**Última actualización:** Mayo 2026 | **Estado:** Manuscrito Finalizado / Listo para Envío | Construido con ⚙️ & 🐍
+**Last Update:** May 2026 | **Status:** Manuscript Finalized / Ready for Submission | Built with ⚙️ & 🐍
 
 </div>
-
----
