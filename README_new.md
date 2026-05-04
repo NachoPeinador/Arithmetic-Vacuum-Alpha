@@ -122,5 +122,25 @@ The scientific manuscript is available under **CC BY 4.0**.
 **José Ignacio Peinador Sala** *Independent Researcher, Valladolid, Spain* 📧 [joseignacio.peinador@gmail.com](mailto:joseignacio.peinador@gmail.com)
 
 ---
-*Dedicated to the open science community and the pursuit of fundamental understanding outside traditional academic boundaries.*
-```
+
+## 🔭 Philosophical Context
+
+> *“No sé cómo puedo parecerle al mundo, pero para mí mismo no he sido más que un niño jugando a la orilla del mar... mientras el gran océano de la verdad se extendía ante mí, todo él por descubrir.”* — **Isaac Newton**
+
+La determinación de la constante de estructura fina ($\alpha$) es uno de los mayores desafíos en la historia de la física teórica. Durante casi un siglo, mentes brillantes han buscado el origen de este número, construyendo un gigantesco puzle de conocimiento donde cada hallazgo, cada teoría y cada experimento han servido para acotar el misterio. 
+
+Este trabajo nace desde la humildad de quien se sabe parte de ese esfuerzo compartido. No pretendemos haber resuelto el enigma en su totalidad, sino simplemente haber aportado una pieza más: una que, al observar el vacío a través de la lente de la topología modular $\mathbb{Z}/6\mathbb{Z}$ y la impedancia de información, parece encajar con una parsimonia y precisión asombrosas. Si nuestra ecuación maestra logra aproximarse tanto al valor medido por CODATA, es gracias al camino pavimentado por todos aquellos que, día tras día, se enfrentan a lo desconocido en laboratorios y despachos de todo el mundo.
+
+Reconocemos y honramos la labor de la comunidad científica global. La ciencia no es una carrera de velocidad, sino una catedral construida piedra a piedra. Este marco analítico, forjado desde la investigación independiente, es solo nuestro intento de colocar una de esas piedras con rigor y honestidad, esperando que ayude a otros a seguir explorando el vasto océano de la verdad que aún nos rodea.
+
+> *“La arquitectura del universo es una, y el esfuerzo humano por comprenderla es un camino que todos recorremos juntos, paso a paso.”* — **Adaptación de pensamiento científico humanista**
+
+---
+
+<div align="center">
+
+**Última actualización:** Mayo 2026 | **Estado:** Manuscrito Finalizado / Listo para Envío | Construido con ⚙️ & 🐍
+
+</div>
+
+---
