@@ -10,7 +10,7 @@
 [![Precision](https://img.shields.io/badge/precision-10%E2%81%BB%C2%B9%E2%81%B4-brightgreen)](https://physics.nist.gov/cuu/Constants/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Converged-success)](https://physics.nist.gov/cuu/Constants/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18609093.svg)](https://doi.org/10.5281/zenodo.18611630)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20028236.svg)](https://doi.org/10.5281/zenodo.20028236)
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Phenom_Approx_Alpha.pdf)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Master_Validation_Notebook.ipynb)
 
@@ -105,7 +105,7 @@ If you use this work, the topological frameworks, or the audit engine in your re
   journal={Zenodo},
   year={2026},
   url={[https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha)},
-  doi={10.5281/zenodo.18611630},
+  doi={10.5281/zenodo.20028236},
   note={Version 1.0.0}
 }
 ```
