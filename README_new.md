@@ -65,7 +65,7 @@ Our theoretical derivation is compared directly against the latest metrological 
 | **Total** | **MST Prediction** | **`137.035999206...`** |
 | *Reference* | *CODATA 2022 (Experiment)* | *`137.035999206...`* |
 
-**Stability Audit:** Applying a micro-perturbation ($\epsilon = 10^{-6}$) to the topological parameters ($1/4$ holographic partition or $\mathbb{Z}_6$ dimension) degrades predictive accuracy by **over four orders of magnitude ($>10^4$x)**. The model resides in a steep phenomenological potential well, mathematically rejecting the flat landscapes characteristic of ad-hoc curve fitting.
+**Stability Audit:** Applying a micro-perturbation ($\epsilon = 10^{-6}$) to the topological parameters ($1/4$ holographic partition or $\mathbb{Z}_6$ dimension) degrades predictive accuracy by ** over four orders of magnitude $>10^4$x **. The model resides in a steep phenomenological potential well, mathematically rejecting the flat landscapes characteristic of ad-hoc curve fitting.
 
 ## 🛠️ Scientific Reproducibility
 
@@ -87,12 +87,12 @@ To ensure transparency, all computational analyses are provided via a cloud-host
 ├── README.md                          # Project overview & theoretical summary
 ├── COPYRIGHT.md                       
 ├── LICENSE                            
-├── image_651fe4.png                   # Algebraic Naturalness Plot
+├── Algebraic_Naturalness.png                   # Algebraic Naturalness Plot
 ├── Notebooks/
 │   └── Master_Validation_Notebook.ipynb # Interactive Colab Notebook
 └── Paper/
-    ├── Alpha_v6.pdf                   # Full manuscript (Preprint)
-    └── Alpha_v6.tex                   # LaTeX source code
+    ├── Phenom_Approx_Alpha.pdf                   # Full manuscript (Preprint)
+    └── Phenom_Approx_Alpha.tex                   # LaTeX source code
 ```
 
 ## 📚 Citation
