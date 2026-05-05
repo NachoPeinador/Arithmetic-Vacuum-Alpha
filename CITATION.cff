@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, the Master Equation, or the high-precision validation code in your research, please cite it as below."
+authors:
+  - family-names: "Peinador Sala"
+    given-names: "José Ignacio"
+    orcid: "https://orcid.org/0009-0008-1822-3452"
+title: "A Phenomenological Approximation of the Inverse Fine-Structure Constant via Z/6Z Topology and Informational Entropy"
+version: 1.0.0
+doi: 10.5281/zenodo.18611630
+date-released: 2026-05-04
+url: "https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha"
+repository-code: "https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha"
+keywords:
+  - fine-structure constant
+  - quantum electrodynamics
+  - modular substrate theory
+  - Z/6Z topology
+  - informational entropy
+  - Kolmogorov complexity
+  - look-elsewhere effect
+  - non-commutative geometry
+license: "MIT"
+abstract: >-
+  This repository provides the computational laboratory and high-precision
+  (100-digit) arbitrary arithmetic framework used to validate the derivation
+  of the inverse fine-structure constant (alpha^-1). It models alpha^-1 as an 
+  emergent property of information geometry, defined by the thermodynamic 
+  impedance of a discrete Z/6Z modular substrate. The codebase includes the 
+  emergence identities for e and pi, the perturbative expansion incorporating 
+  holographic partition and topological torsion, and a Monte Carlo simulation 
+  to mathematically reject the Look-Elsewhere Effect (LEE) using an Algebraic 
+  Naturalness Metric based on Kolmogorov Complexity.
