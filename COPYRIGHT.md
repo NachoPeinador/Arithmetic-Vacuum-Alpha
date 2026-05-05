@@ -10,7 +10,7 @@
 
 ## 1. Copyright Notice
 
-All original content in this repository, including but not limited to source code, theoretical derivations, documentation, and generated visual assets, is Copyright © 2025-2026 **José Ignacio Peinador Sala**. All rights reserved.
+All original content in this repository, including but not limited to source code, theoretical derivations, documentation, and generated visual assets, is Copyright © 2024-2026 **José Ignacio Peinador Sala**. All rights reserved.
 
 ## 2. Licensing Terms
 
