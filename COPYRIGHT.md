@@ -1,6 +1,6 @@
 # Copyright and Licensing Information
 
-**Project:** The Fine Structure of the Arithmetic Vacuum
+**Project:** Phenomenological Approximation of the Inverse Fine-Structure Constant via Z/6Z Topology and Informational Entropy
 
 **Author:** José Ignacio Peinador Sala
 
@@ -10,7 +10,7 @@
 
 ## 1. Copyright Notice
 
-All original content in this repository, including but not limited to source code, theoretical derivations, documentation, and generated visual assets, is Copyright © 2024-2026 **José Ignacio Peinador Sala**. All rights reserved.
+All original content in this repository, including but not limited to source code, theoretical derivations, documentation, and generated visual assets, is Copyright © 2025-2026 **José Ignacio Peinador Sala**. All rights reserved.
 
 ## 2. Licensing Terms
 
@@ -24,7 +24,7 @@ All software, scripts, and algorithmic implementations (specifically contents wi
 * **Full Text:** [See LICENSE](./LICENSE)
 
 ### B. Scientific Paper, Documentation, and Visuals
-The academic paper (`paper/Arithmetic_Vacuum_Alpha.pdf`) and the README documentation are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+The academic paper (`paper/Phenom_Approx_Alpha.pdf`) and the README documentation are licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
 
 * **You are free to:** Share, copy, and redistribute the material in any medium or format.
 * **Under the following terms:** You must give **appropriate credit**, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
@@ -32,7 +32,7 @@ The academic paper (`paper/Arithmetic_Vacuum_Alpha.pdf`) and the README document
 
 ## 3. Citation Requirement
 
-If you use the Arithmetic Vacuum Alpha theory, the provided code, or the derived datasets in your research or public projects, **attribution is required**. Please cite the work as follows:
+If you use the Phenomenological Approximation of the Inverse Fine-Structure Constant via Z/6Z Topology and Informational Entropy theory, the provided code, or the derived datasets in your research or public projects, **attribution is required**. Please cite the work as follows:
 
 **BibTeX:**
 ```bibtex
