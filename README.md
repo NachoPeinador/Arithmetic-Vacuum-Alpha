@@ -138,6 +138,6 @@ We recognize and honor the work of the global scientific community. Science is n
 
 <div align="center">
 
-**Last Update:** May 2026 | **Status:** Manuscript Finalized / Ready for Submission | Built with ⚙️ & 🐍
+**Last Update:** May 2026 | **Status:** <b>Status:</b> Submitted to <i>Journal of Cryptographic Engineering</i> | Built with ⚙️ & 🐍
 
 </div>
