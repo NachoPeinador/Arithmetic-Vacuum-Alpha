@@ -138,6 +138,6 @@ We recognize and honor the work of the global scientific community. Science is n
 
 <div align="center">
 
-**Last Update:** May 2026 | **Status:** <b>Status:</b> Submitted to <i> Foundations of Physics </i> | Built with ⚙️ & 🐍
+**Last Update:** May 2026 | **Status:** <b>Status:</b> Submitted to <i> Information Geometry 8d40810d-ff49-4016-8f1e-5b91ca49e11e </i> | Built with ⚙️ & 🐍
 
 </div>
