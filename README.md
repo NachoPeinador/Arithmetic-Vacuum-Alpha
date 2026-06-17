@@ -16,7 +16,7 @@
 
 This repository contains the official source code, high-precision validation scripts, and fully executed computational notebooks for the paper **"Analytical Evaluation of the Electromagnetic Coupling Constant via Modular Substrate Vacuum Invariants"**. 
 
-We present a deterministic, closed-form evaluation for $\alpha^{-1}$ by injecting the universal vacuum informational impedance ($R_{\text{fund}}$)—rigorously derived from the Standard Model $\mathbb{Z}_6^{(1)}$ global 1-form symmetry and holographic Cantor string dynamics in our companion foundational work—into a structured phase-space expansion. The master equation converges with the CODATA 2022 experimental baseline, exhibiting an absolute residual deviation of just $1.5 \times 10^{-14}$.
+We present a deterministic, closed-form evaluation for $\alpha^{-1}$ by injecting the universal vacuum informational impedance ($R_{\text{fund}}$)—rigorously derived from the Standard Model $\mathbb{Z}_6^{(1)}$ global 1-form symmetry and holographic Cantor string dynamics in our companion [foundational work](https://zenodo.org/records/20546608) —into a structured phase-space expansion. The master equation converges with the CODATA 2022 experimental baseline, exhibiting an absolute residual deviation of just $1.5 \times 10^{-14}$.
 
 Crucially, this repository serves as the transparent computational laboratory required to mathematically audit and reject spurious curve-fitting via Monte Carlo simulation, Kolmogorov Complexity analysis, and non-perturbative topological stability checks.
 
