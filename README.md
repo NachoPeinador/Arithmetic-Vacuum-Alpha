@@ -12,7 +12,7 @@
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Converged-success)](https://physics.nist.gov/cuu/Constants/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18611629.svg)](https://doi.org/10.5281/zenodo.18611629)
 [![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Analytical_Evaluation_of_the_Electromagnetic_Coupling_Constant_v3.pdf)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Suite.ipynb.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Suite.ipynb)
 
 This repository contains the official source code, high-precision validation scripts, and fully executed computational notebooks for the paper **"Analytical Evaluation of the Electromagnetic Coupling Constant via Modular Substrate Vacuum Invariants"**. 
 
@@ -90,7 +90,7 @@ To ensure absolute transparency and full auditability, the entire computational 
 
 | Research Domain | Interactive Notebook | Key Validations & Outputs |
 | :--- | :--- | :--- |
-| **⚛️ Electrodynamic Coupling Invariants** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Suite.ipynb.ipynb) | • 100-digit precision evaluation of $\alpha^{-1}$<br>• Asymptotic convergence acceleration plots<br>• Monte Carlo Spurious Mining & Trials Factor (LEE)<br>• Kolmogorov Complexity AST Isolation |
+| **⚛️ Electrodynamic Coupling Invariants** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Suite.ipynb) | • 100-digit precision evaluation of $\alpha^{-1}$<br>• Asymptotic convergence acceleration plots<br>• Monte Carlo Spurious Mining & Trials Factor (LEE)<br>• Kolmogorov Complexity AST Isolation |
 
 ### Verification Steps
 
