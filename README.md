@@ -11,7 +11,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--1822--3452-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-1822-3452) 
 [![CODATA 2022](https://img.shields.io/badge/CODATA-Converged-success)](https://physics.nist.gov/cuu/Constants/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18611629.svg)](https://doi.org/10.5281/zenodo.18611629)
-[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Analytical_Evaluation_of_the_Electromagnetic_Coupling_Constant_v2.pdf)
+[![Papers](https://img.shields.io/badge/Paper-Read_PDF-B31B1B?style=flat&logo=latex&logoColor=white)](https://github.com/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Paper/Analytical_Evaluation_of_the_Electromagnetic_Coupling_Constant_v3.pdf)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NachoPeinador/Arithmetic-Vacuum-Alpha/blob/main/Notebooks/Validation_Suite.ipynb.ipynb)
 
 This repository contains the official source code, high-precision validation scripts, and fully executed computational notebooks for the paper **"Analytical Evaluation of the Electromagnetic Coupling Constant via Modular Substrate Vacuum Invariants"**. 
@@ -46,7 +46,7 @@ $$
 
 The master equation structures the coupling threshold by modulating a bare isotropic manifold with discrete holographic and torsional screening layers:
 
-* **$\mathbf{4\pi^3 + \pi^2 + \pi}$ (Order 0: Bare Geometric Manifold):** The invariant phase-space volumes of topological compactification residing within a fundamental $3+1$ dimensional space. Crucially, $\pi$ emerges analytically as an imaginary phase shift of the Riemann Zeta ground state and the binary bit: $\pi = -i [ \ln \zeta(0) + \ln 2 ]$.
+* **$\mathbf{4\pi^3 + \pi^2 + \pi}$ (Order 0: Bare Geometric Manifold):** Grounded in the Seeley-DeWitt heat kernel expansion of Noncommutative Geometry, the bare coupling is rigorously defined as the additive sum of invariant Lie group volumes of the observable universe: the phase-space volume of the unbroken electroweak gauge group $SU(2) \times U(1)$ ($4\pi^3$), the boundary surface dictated by the local spatial rotational isometry $SO(3)$ ($\pi^2$), and the singular projective fiber $\mathbb{R}P^1$ ($\pi$).
 * **$-\frac{1}{4} R_{\text{fund}}^3$ (Order 1: Holographic Phase-Space Partition):** Structural volumetric fluctuations projected onto an enclosing information horizon, strictly scaled by a universal Bekenstein-Hawking coefficient of $1/4$ ($S \propto A/4G_N$).
 * **$-(1 + \frac{1}{4\pi})R_{\text{fund}}^5$ (Order 2: Topological Torsion):** Secondary geometric scattering cross-section governing deep-vacuum self-interactions, formalized via the spectral action principles of noncommutative geometry. The scalar $1$ maps to the normalized Euler characteristic of the interaction node, while $1/4\pi$ dictates the solid-angle normalization onto a 3-dimensional spherical surface.
 
