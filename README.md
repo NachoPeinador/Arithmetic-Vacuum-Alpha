@@ -16,7 +16,7 @@
 
 This repository hosts the official open-source computational laboratory, high-precision evaluation engines, and verification suites for the mathematical physics paper **"Infrared Limit of the Fine-Structure Constant: Global Gauge Group Center and Holographic Complexity Expansions"**.
 
-We present a parameter-free, deterministic closed-form derivation for the electromagnetic coupling constant ($\alpha^{-1}$) at the non-perturbative infrared limit. By injecting the universal vacuum informational impedance ($R_{\text{fund}}$)—rigorously derived from the Standard Model $\mathbb{Z}_6$ global gauge symmetry center and holographic Cantor string dynamics—into a structured phase-space expansion, our master equation matches the experimental CODATA 2022 baseline within an absolute residual discrepancy of just **1.5 × 10⁻¹⁴**.
+We present a parameter-free, deterministic closed-form derivation for the electromagnetic coupling constant ($\alpha^{-1}$) at the non-perturbative infrared limit. By injecting the universal vacuum informational impedance $R_{\text{fund}}$ —rigorously derived from the Standard Model $\mathbb{Z}_6$ global gauge symmetry center and holographic Cantor string dynamics—into a structured phase-space expansion, our master equation matches the experimental CODATA 2022 baseline within an absolute residual discrepancy of just **1.5 × 10⁻¹⁴**.
 
 This environment allows peer reviewers, physicists, and independent researchers to fully replicate and audit the framework's mathematical parsimony, algorithmic naturalness, and strict topological rigidity.
 
